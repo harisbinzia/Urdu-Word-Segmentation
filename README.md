@@ -1,1 +1,1 @@
-# Urdu-Text-Segmentation
+# Urdu-Word-Segmentation
