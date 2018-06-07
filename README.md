@@ -16,5 +16,7 @@ If you use this tool in any of your work, please cite below paper.
 [Urdu Word Segmentation using Conditional Random Fields (CRFs)]()
 
 # License(s)
+Copyright 2018 CSALT, ITU
 
-See the [LICENSE](https://github.com/harisbinzia/Urdu-Word-Segmentation/blob/master/LICENSE) file for code and [LICENSE](https://github.com/harisbinzia/Urdu-Word-Segmentation/blob/master/Data/LICENSE) file for dataset.
+Code licensed under the MIT License: http://opensource.org/licenses/MIT
+Data licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
